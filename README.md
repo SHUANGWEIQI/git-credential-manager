@@ -135,4 +135,5 @@ When using GitHub logos, please be sure to follow the
 [github-logos]: https://github.com/logos
 [install]: https://github.com/GitCredentialManager/git-credential-manager/blob/release/docs/install.md
 [ms-package-repos]: https://packages.microsoft.com/repos/
+                    :https://developers.google.com/profile/badges/profile/created-profile
 [workflow-status]: https://github.com/GitCredentialManager/git-credential-manager/actions/workflows/continuous-integration.yml
